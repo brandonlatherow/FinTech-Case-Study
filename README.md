@@ -7,4 +7,7 @@ blah blah blah
 
  # you got this
 
- ### Upload the homework assignment here. The rest is in your google doc
+ ### Upload the homework assignment here. The rest is in your g![](../../
+ 
+ 
+ ![](download.png)
